@@ -34,9 +34,8 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 
 
-<p align="center">
- <img src="https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/blob/main/Sprint%201/imagem/SPRINT%202.equipe.png" width="100%"/>
-</p>
+![image](https://github.com/user-attachments/assets/4c0ea814-8782-4be1-ba3f-f8c841b21e13)
+
 
 # Objetivo do Projeto
 A Innova Consultoria tem como principal objetivo assessorar a Doce Sabor a alcançar novos patamares, promovendo um crescimento contínuo e equilibrado, com foco em aumentar os lucros e fomentar a inovação na produção. Nosso compromisso é auxiliar na gestão de processos, garantindo uma regência eficiente em todos os setores da Doce Sabor, desde a administração até as áreas de vendas e produção.
