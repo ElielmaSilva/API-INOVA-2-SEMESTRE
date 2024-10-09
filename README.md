@@ -15,7 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Nós, da Innova, temos o privilégio de desenvolver um sistema integrado de dispositivos de mobilidade assistida que melhore a independência e a qualidade de vida de pessoas com dificuldades de locomoção. 
+Nós, da Innova, temos o privilégio de . 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 02/04/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -33,12 +33,11 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 
-
 ![image](https://github.com/user-attachments/assets/4c0ea814-8782-4be1-ba3f-f8c841b21e13)
 
 
 # Objetivo do Projeto
-A Innova Consultoria tem como principal objetivo assessorar a Doce Sabor a alcançar novos patamares, promovendo um crescimento contínuo e equilibrado, com foco em aumentar os lucros e fomentar a inovação na produção. Nosso compromisso é auxiliar na gestão de processos, garantindo uma regência eficiente em todos os setores da Doce Sabor, desde a administração até as áreas de vendas e produção.
+A Innova tem como principal objetivo desenvolver um sistema integrado de dispositivos de mobilidade assistida que melhore a independência e a qualidade de vida de pessoas com dificuldades de locomoção
 
 # Funcionalidades e Demonstrações das Sprints
 
