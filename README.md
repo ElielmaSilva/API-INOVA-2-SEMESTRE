@@ -4,7 +4,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 
 * [Projeto (API)](#projeto-api)
-* [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
@@ -25,12 +24,6 @@ Sprint | Previsão | Status| Histórico|
 |04| |  |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções| 27/06/2024 | Em andamento |[Ver Relatório](estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-
-# Micro Certificações
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
 # Equipe
 
 ![image](https://github.com/user-attachments/assets/4c0ea814-8782-4be1-ba3f-f8c841b21e13)
@@ -43,7 +36,7 @@ A Innova tem como principal objetivo desenvolver um sistema integrado de disposi
 
 ## Sprint 1
 
-[![SPRINT 1](https://img.youtube.com/vi/L0afRHmZ45o/0.jpg)](https://youtu.be/L0afRHmZ45o)
+[![SPRINT 1](https://img./0.jpg)](https://youtu.be/L0afRHmZ45o)
 
 
 ## Sprint 2
