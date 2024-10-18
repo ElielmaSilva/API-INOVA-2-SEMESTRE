@@ -42,18 +42,18 @@ A Innova tem como principal objetivo desenvolver um sistema integrado de disposi
 ## Sprint 2
 >Colocar o vídeo da apresentação
 
-[![SPRINT 2](https://img.youtube.com/vi/mRM29sPmXu4/0.jpg)](https://youtu.be/mRM29sPmXu4)
+[![SPRINT 2](https://img./0.jpg)](https://youtu.be/mRM29sPmXu4)
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
 
-[![SPRINT 3](https://img.youtube.com/vi/5g1n42vEU3s/0.jpg)](https://youtu.be/5g1n42vEU3s)
+[![SPRINT 3](https://img..jpg)](https://youtu.be/5g1n42vEU3s)
 
 
 ## Sprint 4
 >Colocar o vídeo da apresentação
 
-[![SPRINT 4](https://img.youtube.com/vi/tDMO3TMd4Mo/0.jpg)](https://youtu.be/tDMO3TMd4Mo)
+[![SPRINT 4](https://img./0.jpg)](https://youtu.be/tDMO3TMd4Mo)
 
 
 ## Apresentação final (se necessario)
