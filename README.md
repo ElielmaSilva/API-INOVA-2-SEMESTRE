@@ -64,13 +64,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ## Tecnologias Utilizadas
+![image](https://github.com/user-attachments/assets/30a9a951-5500-40e6-bcdc-6463b2e94779)
 
-
-
-
-  
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
 
 # Cronograma das Sprints
 ![image](https://github.com/user-attachments/assets/d4b4c953-db15-4bc1-8b96-ef5b02d723cb)
