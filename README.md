@@ -78,22 +78,10 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/6951c680-a3e5-49cf-ac6a-c97746285ae2)
 
-## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
-
-## Burndown
->Colocar aqui Burndown do projeto
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
 
 ## Sprint 1 - Concepção
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/51049365-b632-45d8-9993-08d8c4816aa7)
+![image](https://github.com/user-attachments/assets/5ae68af5-7609-4e8c-96d0-4544798032c2)
+
 
 
 ## Sprint 2 - Desenvolvimento do Projeto
