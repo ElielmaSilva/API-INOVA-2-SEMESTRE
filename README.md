@@ -73,8 +73,9 @@ Vídeo com a apresentação final da API do "semestre/ano"
 > Liste todas as tecnologias referentes aos processos da API
 
 # Cronograma das Sprints
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/59e48cbb-042f-4f10-9ebd-522994b7fb4f)
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/e2f83773-4454-436b-b865-55528794505b)
+![image](https://github.com/user-attachments/assets/d4b4c953-db15-4bc1-8b96-ef5b02d723cb)
+
+
 
 
 
