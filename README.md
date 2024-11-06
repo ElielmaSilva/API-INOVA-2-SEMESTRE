@@ -84,7 +84,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 
-## Sprint 2 - Desenvolvimento do Projeto
+## Sprint 2 - Informacional
 ![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/b217448b-7b37-4c55-b53a-32a12cca212d)
 
       
