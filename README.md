@@ -84,7 +84,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ## Sprint 2 - Informacional
-![Captura de tela 2024-11-05 221023](https://github.com/user-attachments/assets/cb1ea6d2-c7d8-4bfb-9e5d-5895adbcc1fb)
+![Captura de tela 2024-11-05 221205](https://github.com/user-attachments/assets/790323f3-b539-406a-b500-120dbce139b5)
+
 
 
 
