@@ -98,7 +98,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
       
-## Sprint 3 - Implementação
+## Sprint 3 - Conceitual
+![image](https://github.com/user-attachments/assets/63274eb3-9c30-4d26-b599-12fd5a8fddd2)
 
 
       
