@@ -66,6 +66,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ![image](https://github.com/user-attachments/assets/f8017621-b2af-4fe8-be26-b5cd08273ae3)
 
+![Captura de tela 2024-11-26 201811](https://github.com/user-attachments/assets/717a788b-4943-4374-b3cc-fead2d252b99)
+
 
 
 # Cronograma das Sprints
