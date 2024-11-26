@@ -20,7 +20,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 02/09/2024 |Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01 | 29/09/2024 |Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02|29/10/2024 | Concluido |[Ver Relatório](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/blob/main/Sprint%202/documento/SPRINT%202.pptx) | 
-|03|  | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03|10/11/2024  | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| |  |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções| 27/06/2024 | Em andamento |[Ver Relatório](estagio/modelo_relatorio_estagio_gpi.docx) | 
 
