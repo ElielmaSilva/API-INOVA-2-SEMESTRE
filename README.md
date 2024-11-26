@@ -95,9 +95,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ![Captura de tela 2024-11-05 221205](https://github.com/user-attachments/assets/790323f3-b539-406a-b500-120dbce139b5)
 
 
-
-
-      
+    
 ## Sprint 3 - Conceitual
 ![image](https://github.com/user-attachments/assets/63274eb3-9c30-4d26-b599-12fd5a8fddd2)
 
