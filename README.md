@@ -98,11 +98,11 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
       
 ## Sprint 3 - Implementação
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/57396aed-4ba6-4162-b2f6-e4454d0a9b1d)
+
 
       
 ## Sprint 4 - Operacionalização
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/02c30146-ef6a-4a15-83bd-afe14bd15e99)
+
 
 
 
