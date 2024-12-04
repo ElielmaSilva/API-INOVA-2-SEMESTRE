@@ -22,7 +22,7 @@ Sprint | Previsão | Status| Histórico|
 |02|29/10/2024 | Concluido |[Ver Relatório](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/blob/main/Sprint%202/documento/SPRINT%202.pptx) | 
 |03|10/11/2024  | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04|03/12/2024 | Concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções| 27/06/2024 | Em andamento |[Ver Relatório](estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções| 12/12/2024| Em andamento |[Ver Relatório](estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Equipe
 
@@ -75,7 +75,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ![Captura de tela 2024-11-05 225253](https://github.com/user-attachments/assets/57ed7b81-b29a-4c56-9c36-48f6a757c60d)
 ![Captura de tela 2024-11-05 223442](https://github.com/user-attachments/assets/f286611a-33fa-4f65-a9e3-bb71b0c04a38)
 ![image](https://github.com/user-attachments/assets/ea184381-2ce7-47bd-aeb7-004a60a2de18)
-![image](https://github.com/user-attachments/assets/3b22c799-98bd-48a5-a8ab-ce05b118464f)
+![image](https://github.com/user-attachments/assets/41ff27dd-864c-4e82-97cf-23748b0164bf)
 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
