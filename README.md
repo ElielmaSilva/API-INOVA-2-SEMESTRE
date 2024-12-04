@@ -68,19 +68,14 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ![Captura de tela 2024-11-26 201811](https://github.com/user-attachments/assets/717a788b-4943-4374-b3cc-fead2d252b99)
 
-![image](https://github.com/user-attachments/assets/208a250e-f85e-4521-8eee-e21588d12604)
+
 
 
 # Cronograma das Sprints
 ![Captura de tela 2024-11-05 225253](https://github.com/user-attachments/assets/57ed7b81-b29a-4c56-9c36-48f6a757c60d)
-
-
-
 ![Captura de tela 2024-11-05 223442](https://github.com/user-attachments/assets/f286611a-33fa-4f65-a9e3-bb71b0c04a38)
-
-
-
 ![image](https://github.com/user-attachments/assets/ea184381-2ce7-47bd-aeb7-004a60a2de18)
+![image](https://github.com/user-attachments/assets/3b22c799-98bd-48a5-a8ab-ce05b118464f)
 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
