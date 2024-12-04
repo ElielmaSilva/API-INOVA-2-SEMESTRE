@@ -101,8 +101,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ## Hard Skill (saber tecnológico)
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/b9a81f89-957b-407b-92b3-1e9b1aa9bef5)
-
+![image](https://github.com/user-attachments/assets/1351c5aa-9fba-4428-9f49-49504d533290)
 
 <summary>Hard Skills desenvolvidas</summary>
   
