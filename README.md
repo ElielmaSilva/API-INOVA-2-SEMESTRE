@@ -86,22 +86,14 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ## Sprint 1 - Concepção
 ![image](https://github.com/user-attachments/assets/5ae68af5-7609-4e8c-96d0-4544798032c2)
 
-
-
 ## Sprint 2 - Informacional
 ![Captura de tela 2024-11-05 221205](https://github.com/user-attachments/assets/790323f3-b539-406a-b500-120dbce139b5)
-
-
     
 ## Sprint 3 - Conceitual
 ![image](https://github.com/user-attachments/assets/63274eb3-9c30-4d26-b599-12fd5a8fddd2)
-
-
       
-## Sprint 4 - Operacionalização
-
-
-
+## SPRINT 04 - Detalhado
+![image](https://github.com/user-attachments/assets/21b0ca12-d816-4f8a-b532-b5d5fb2c6ddd)
 
 # Competências desenvolvidas
 ![image](https://github.com/user-attachments/assets/68eed8f7-4cb8-4cb7-94d9-06d5a671c757)
