@@ -21,7 +21,7 @@ Sprint | Previsão | Status| Histórico|
 |01 | 29/09/2024 |Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02|29/10/2024 | Concluido |[Ver Relatório](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/blob/main/Sprint%202/documento/SPRINT%202.pptx) | 
 |03|10/11/2024  | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| |  |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|04|03/12/2024 | Concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções| 27/06/2024 | Em andamento |[Ver Relatório](estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Equipe
@@ -68,6 +68,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ![Captura de tela 2024-11-26 201811](https://github.com/user-attachments/assets/717a788b-4943-4374-b3cc-fead2d252b99)
 
+![image](https://github.com/user-attachments/assets/208a250e-f85e-4521-8eee-e21588d12604)
 
 
 # Cronograma das Sprints
